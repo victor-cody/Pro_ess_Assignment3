@@ -4,7 +4,7 @@ public class Assign3Q2 {
 
       System.out.println("The current month is: " + currentMonth);
       
-      //Inset your code here!
+      //Insert your code here!
       
     }
 }

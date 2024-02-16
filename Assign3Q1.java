@@ -7,7 +7,7 @@ public class Assign3Q1 {
 
       System.out.println("Char is: " + someChar);
       
-      //Inset your code here!
+      //Insert your code here!
       
     }
 }

@@ -4,7 +4,7 @@ public class Assign3Q3 {
 
       System.out.println("The number is: " + currentValue);
 
-      //Inset your code here!
+      //Insert your code here!
 
     }
 }
